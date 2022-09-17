@@ -37,6 +37,7 @@ class ViewModel: ObservableObject {
     }
     
     func downloadImage(url: String) {
+        text = ""
         guard
             let url = URL(string: url),
               url.scheme == "https"
