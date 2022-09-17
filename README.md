@@ -1,3 +1,3 @@
 # Image Downloader
 <p>Download image using URL and save in Documents folder</p>
-[img]http://i.imgur.com/vJOJLTJh.gif[/img]
+<img src="https://i.imgur.com/qtAltvB.gif" height="700px" width="auto"/>
